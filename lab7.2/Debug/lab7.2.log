@@ -1,7 +1,2 @@
 ﻿  lab7.2.cpp
-d:\my documents\visual studio 2015\projects\lab7.2\lab7.2\lab7.2.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-d:\my documents\visual studio 2015\projects\lab7.2\lab7.2\lab7.2.cpp(81): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-d:\my documents\visual studio 2015\projects\lab7.2\lab7.2\lab7.2.cpp(103): warning C4305: 'argument': truncation from 'double' to 'const float'
-d:\my documents\visual studio 2015\projects\lab7.2\lab7.2\lab7.2.cpp(107): warning C4305: 'argument': truncation from 'double' to 'const float'
-d:\my documents\visual studio 2015\projects\lab7.2\lab7.2\lab7.2.cpp(144): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   lab7.2.vcxproj -> D:\My Documents\Visual Studio 2015\Projects\lab7.2\Debug\lab7.2.exe

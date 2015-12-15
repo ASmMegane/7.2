@@ -7,11 +7,15 @@
 
 struct Config {
 	Config() {};
-	int countBlocks;
 	sf::RenderWindow window;
-	sf::ContextSettings settings;
 	int numberOfAnimation; //
 	bool isAnimationStart;
+	int maxStepAnimation;
 	int stepAnimation;
 	int sizeValue;
+	float zoomUpValue;
+	float zoomDownValue;
+	float rotateBlock;
+	int deltaXPos;
+	int deltaYPos;
 };
